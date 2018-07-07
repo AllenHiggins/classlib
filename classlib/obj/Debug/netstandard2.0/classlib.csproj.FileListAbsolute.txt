@@ -1,0 +1,9 @@
+/home/allen/Documents/NET_Core_CSharp/classes/lib/classlib/bin/Debug/netstandard2.0/classlib.deps.json
+/home/allen/Documents/NET_Core_CSharp/classes/lib/classlib/bin/Debug/netstandard2.0/classlib.dll
+/home/allen/Documents/NET_Core_CSharp/classes/lib/classlib/bin/Debug/netstandard2.0/classlib.pdb
+/home/allen/Documents/NET_Core_CSharp/classes/lib/classlib/obj/Debug/netstandard2.0/classlib.csprojAssemblyReference.cache
+/home/allen/Documents/NET_Core_CSharp/classes/lib/classlib/obj/Debug/netstandard2.0/classlib.csproj.CoreCompileInputs.cache
+/home/allen/Documents/NET_Core_CSharp/classes/lib/classlib/obj/Debug/netstandard2.0/classlib.AssemblyInfoInputs.cache
+/home/allen/Documents/NET_Core_CSharp/classes/lib/classlib/obj/Debug/netstandard2.0/classlib.AssemblyInfo.cs
+/home/allen/Documents/NET_Core_CSharp/classes/lib/classlib/obj/Debug/netstandard2.0/classlib.dll
+/home/allen/Documents/NET_Core_CSharp/classes/lib/classlib/obj/Debug/netstandard2.0/classlib.pdb

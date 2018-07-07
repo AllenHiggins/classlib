@@ -1,0 +1,17 @@
+/home/allen/Documents/NET_Core_CSharp/classes/lib/lib.Tests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/allen/Documents/NET_Core_CSharp/classes/lib/lib.Tests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/home/allen/Documents/NET_Core_CSharp/classes/lib/lib.Tests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/home/allen/Documents/NET_Core_CSharp/classes/lib/lib.Tests/bin/Debug/netcoreapp2.1/lib.Tests.deps.json
+/home/allen/Documents/NET_Core_CSharp/classes/lib/lib.Tests/bin/Debug/netcoreapp2.1/lib.Tests.runtimeconfig.json
+/home/allen/Documents/NET_Core_CSharp/classes/lib/lib.Tests/bin/Debug/netcoreapp2.1/lib.Tests.runtimeconfig.dev.json
+/home/allen/Documents/NET_Core_CSharp/classes/lib/lib.Tests/bin/Debug/netcoreapp2.1/lib.Tests.dll
+/home/allen/Documents/NET_Core_CSharp/classes/lib/lib.Tests/bin/Debug/netcoreapp2.1/lib.Tests.pdb
+/home/allen/Documents/NET_Core_CSharp/classes/lib/lib.Tests/bin/Debug/netcoreapp2.1/classlib.dll
+/home/allen/Documents/NET_Core_CSharp/classes/lib/lib.Tests/bin/Debug/netcoreapp2.1/classlib.pdb
+/home/allen/Documents/NET_Core_CSharp/classes/lib/lib.Tests/obj/Debug/netcoreapp2.1/lib.Tests.csprojAssemblyReference.cache
+/home/allen/Documents/NET_Core_CSharp/classes/lib/lib.Tests/obj/Debug/netcoreapp2.1/lib.Tests.csproj.CoreCompileInputs.cache
+/home/allen/Documents/NET_Core_CSharp/classes/lib/lib.Tests/obj/Debug/netcoreapp2.1/lib.Tests.AssemblyInfoInputs.cache
+/home/allen/Documents/NET_Core_CSharp/classes/lib/lib.Tests/obj/Debug/netcoreapp2.1/lib.Tests.AssemblyInfo.cs
+/home/allen/Documents/NET_Core_CSharp/classes/lib/lib.Tests/obj/Debug/netcoreapp2.1/lib.Tests.csproj.CopyComplete
+/home/allen/Documents/NET_Core_CSharp/classes/lib/lib.Tests/obj/Debug/netcoreapp2.1/lib.Tests.dll
+/home/allen/Documents/NET_Core_CSharp/classes/lib/lib.Tests/obj/Debug/netcoreapp2.1/lib.Tests.pdb
